@@ -6,6 +6,7 @@ import android.content.*;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
 import android.graphics.Color;
+import android.graphics.drawable.GradientDrawable;
 import android.media.*;
 import android.net.Uri;
 import android.os.*;
